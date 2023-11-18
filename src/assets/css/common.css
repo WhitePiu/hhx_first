@@ -1,0 +1,12 @@
+:root:root {
+  --primmary-color: #ff9854;
+  --van-search-left-icon-color: var(--primmary-color);
+  --primmary-bg-color: #f7f8fa;
+  --primmary-ceil-bg-color: #f5f7fa;
+  --van-nav-bar-text-color: var(--primmary-color);
+  --van-nav-bar-icon-color: var(--primmary-color);
+  --van-nav-bar-title-text-color: var(--primmary-color);
+}
+body {
+  font-size: 14px;
+}
